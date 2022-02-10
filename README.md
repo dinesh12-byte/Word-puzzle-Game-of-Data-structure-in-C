@@ -12,7 +12,7 @@
 
 - # SNAPSHOTS:-
 
-   <img src="" height="300px" width="500px">
+   <img src="images/wordsnap.png" height="500px" width="100%">
    
 ***
 
