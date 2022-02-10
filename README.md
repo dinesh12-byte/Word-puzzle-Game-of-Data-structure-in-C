@@ -1,5 +1,7 @@
 <h1 align="center">Word-puzzle-Game</h1>
 
+<img src="images/dani.svg" height="300px" width="600px"  >
+
 ***
 
 - # HOW TO PLAY :-
